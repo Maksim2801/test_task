@@ -32,7 +32,6 @@
     Для начала клонируйте репозиторий:
 
     git clone https://github.com/Maksim2801/test_task.git
-    cd organization-directory
 
 2. Создание и настройка окружения
 
